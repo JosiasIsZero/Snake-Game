@@ -5,7 +5,7 @@ Snake Game Created Using JavaScript, HTML and CSS;
 
 ![Start Game](https://github.com/JosiasIsZero/Snake-Game/assets/105129441/fc6cc66d-a9cc-45e4-83de-9ff01e4ce7c1)
 
-### Game Instructions
+## Game Instructions
 Simple Score Based Game
 
 The Snake (Purple) Will Keep Growing Under The Condition It Keeps Eating The Apple (Red)
